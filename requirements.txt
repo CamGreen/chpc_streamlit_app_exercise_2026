@@ -4,4 +4,4 @@ matplotlib
 numpy
 requests
 scholarly
-urllib.parse
+urllib
